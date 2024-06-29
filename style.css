@@ -1,0 +1,104 @@
+.bg-nav{
+  background-color: #99ff99;
+}
+.logo-heading{
+  font-size: 50px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #504e4e;
+}
+.logo-heading span{
+  color:palevioletred;
+}
+.navbar-item{
+ font-size: 20px;
+  margin-left: 20px;
+}
+.svg-logo{
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+}
+.svg-fruit{
+  height: 90px;
+  width: 90px;
+  margin-right: 320px;
+  margin-left: 30px;
+}
+.bg-banner{
+  height:600px
+}
+.social-icon a{
+  text-decoration:none;
+}
+
+.carousel-height{
+  height: 450px;
+}
+
+.img-height{
+  height: 450px;
+  object-fit: cover;
+}
+
+
+/*start  */
+
+.product-card {
+  overflow: hidden;
+  border-radius: .5rem;
+  border: 1px solid #dee2e6;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .05);
+}
+
+.product-card img {
+  object-fit: cover;
+  height: 240px;
+}
+
+.product-card .price {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.product-card .rating i {
+  color: #00BAFE;
+}
+
+.product-card .btn-details {
+  color: #00BAFE;
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: white;
+  border: none;
+}
+
+.product-card .btn-details:hover {
+  background-color: #e7e7e3;
+}
+
+.product-card .modal-content img {
+  object-fit: cover;
+  height: 200px;
+}
+
+.btn-shop-all {
+  background-color: #00BAFE;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border: none;
+  padding: 8px 10px;
+  border-radius: 10px;
+}
+
+.btn-shop-all:hover {
+  background-color: #0bace1;
+}
+
+/*end  */
+
+.product-page{
+  margin-top: 50px;
+}
